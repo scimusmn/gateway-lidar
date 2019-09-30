@@ -1,0 +1,6 @@
+# pinout for the i2c cable on the teraranger one
+
+Red: +VDC (10-20V)
+Black: GND
+White: SDA
+Green: SCL
